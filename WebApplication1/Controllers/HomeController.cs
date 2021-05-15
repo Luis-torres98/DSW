@@ -31,7 +31,7 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
-        public ActionResult create()
+        public ActionResult Reservaciones()
         {
             return View();
         }
