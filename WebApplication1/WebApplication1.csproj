@@ -244,7 +244,7 @@
     <None Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Conferencias.cshtml" />
-    <Content Include="Views\Home\create.cshtml" />
+    <Content Include="Views\Home\Reservaciones.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
