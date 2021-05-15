@@ -45,10 +45,10 @@
                 <span></span>
             </div>
             <nav class="navegacion-principal">
-                @Html.ActionLink("Conferencias","Conferencias","Home")
+                @Html.ActionLink("Conferencias", "Conferencias", "Home")
                 <a href="">Calendario</a>
                 <a href="">Invitados</a>
-                <a href="">Reservaciones</a>
+                @Html.ActionLink("Reservaciones", "Create", "Home");
             </nav>
 
         </div>
