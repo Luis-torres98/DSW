@@ -30,7 +30,54 @@
 
     <!-- Add your site or application content here -->
 
-   
+    <header class="site-header">
+        <div class="hero">
+            <div class="contenido-header">
+                <nav class="redes-sociales">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-pinterest"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                </nav>
+                <div class="informacion-evento">
+
+                    <div class="clearfix">
+                        <p class="fecha"><i class="fas fa-calendar-alt"></i> 10-12 Dic</p>
+                        <p class="ciudad"><i class="fas fa-map-marker-alt"></i> Lima, PE</p>
+                    </div>
+
+
+                    <!--.Informacion-evento-->
+                    <h1 class="nombre-sitio">GdlWebCamp</h1>
+                    <p class="slogan"><span>La mejor conferencia de diseño Web</span> </p>
+                </div>
+            </div>
+        </div>
+        <!--.hero-->
+    </header>
+
+    <div class="barra">
+
+        <div class="contenedor clearfix">
+
+            <div class="logo">
+                <img src="~/img/logo.svg" alt="logo">
+            </div>
+            <div class="menu-movil">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <nav class="navegacion-principal">
+                @Html.ActionLink("Conferencias", "Conferencias", "Home")
+                <a href="">Calendario</a>
+                <a href="">Invitados</a>
+                @Html.ActionLink("Reservaciones", "Reservaciones", "Home");
+            </nav>
+
+        </div>
+    </div>
 
     <section class="seccion contenedor">
         <h2>

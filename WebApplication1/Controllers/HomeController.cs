@@ -36,7 +36,7 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        public ActionResult Invitados()
+        public ActionResult Calendario()
         {
             return View();
         }

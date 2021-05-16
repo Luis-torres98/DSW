@@ -170,175 +170,89 @@ D:\archivos_1\Campos\Downloads\DSW_I\DSW\WebApplication1\obj\Debug\WebApplicatio
 D:\archivos_1\Campos\Downloads\DSW_I\DSW\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 D:\archivos_1\Campos\Downloads\DSW_I\DSW\WebApplication1\obj\Debug\WebApplication1.dll
 D:\archivos_1\Campos\Downloads\DSW_I\DSW\WebApplication1\obj\Debug\WebApplication1.pdb
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\WebApplication1.dll.config
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\WebApplication1.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\WebApplication1.pdb
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\csc.exe
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\csc.exe.config
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\csc.rsp
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\csi.exe
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\csi.exe.config
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\csi.rsp
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.AppContext.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Console.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.IO.Compression.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Net.Http.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Net.Sockets.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.ValueTuple.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Xml.XPath.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\vbc.exe
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\vbc.exe.config
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\vbc.rsp
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\VBCSCompiler.exe
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\Antlr3.Runtime.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\Newtonsoft.Json.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.Helpers.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.Mvc.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.Optimization.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.Razor.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.Razor.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\WebGrease.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.Helpers.xml
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.Mvc.xml
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.Optimization.xml
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.Razor.xml
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.xml
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.Razor.xml
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\Newtonsoft.Json.xml
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\Antlr3.Runtime.pdb
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.Helpers.resources.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.Mvc.resources.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.Optimization.resources.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.Razor.resources.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.WebPages.resources.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\obj\Debug\WebApplication1.dll
-C:\Users\Patts\Desktop\DSW1\Luis-torres98\DSW\WebApplication1\obj\Debug\WebApplication1.pdb
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\WebApplication1.dll.config
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\WebApplication1.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\WebApplication1.pdb
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\csc.exe
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\csc.exe.config
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\csc.rsp
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\csi.exe
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\csi.exe.config
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\csi.rsp
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.AppContext.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Console.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.IO.Compression.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Net.Http.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Net.Sockets.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.ValueTuple.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Xml.XPath.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\vbc.exe
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\vbc.exe.config
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\vbc.rsp
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\VBCSCompiler.exe
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\Antlr3.Runtime.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\Newtonsoft.Json.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.Helpers.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.Mvc.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.Optimization.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.Razor.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.Razor.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\WebGrease.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.Helpers.xml
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.Mvc.xml
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.Optimization.xml
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.Razor.xml
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.xml
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\System.Web.WebPages.Razor.xml
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\Newtonsoft.Json.xml
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\Antlr3.Runtime.pdb
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.Helpers.resources.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.Mvc.resources.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.Optimization.resources.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.Razor.resources.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.WebPages.resources.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\obj\Debug\WebApplication1.dll
-C:\Users\Patts\Source\Repos\Luis-torres98\DSW\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\WebApplication1.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\WebApplication1.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\csc.exe
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\csi.exe
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\WebGrease.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\es\System.Web.Razor.resources.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\WebApplication1\obj\Debug\WebApplication1.pdb
