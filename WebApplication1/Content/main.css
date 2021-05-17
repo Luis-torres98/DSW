@@ -169,7 +169,6 @@ h3 {
     color: #fe4918;
     font-family: 'PT Sans', sans-serif;
     margin: 0;
-    border: 1px solid black;
 }
 
 
@@ -337,15 +336,6 @@ nav.redes-sociales a:last-of-type {
 
 
 /** Barra **/
-.dia {
-    
-    border: 1px solid black;
-    width: 100px;
-    height: 100px;
-    padding: 5px;
-    margin: 50px 10px;
-}
-
 
 .barra {
     background-color: #353535;
@@ -1013,7 +1003,12 @@ h4 {
     display: none; 
 }
 
-
+@media(min-width: 768px) {
+    .contenido-dia>div {
+        float: left;
+        width: 33.3%;
+    }
+}
 
 .contenido-dia>div p {
     text-align: center;
@@ -1035,63 +1030,6 @@ h4 {
 
 
 /* Resumen de pago  */
-
-
-/*
-    Calendario
-*/
-
-
-div.calendario h3 {
-    background-color: #fe4918;
-    clear: both;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
-
-div.calendario::after {
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.dia {
-    width: 50%;
-    float: left;
-    border: 2px solid #e1e1e1;
-    transition: all .3s ease;
-    padding: 10px;
-}
-
-@media only screen and (min-width: 768px) {
-
-    div.dia {
-        width: 33.3%;
-        min-height: 240px;
-    }
-}
-
-div.dia:hover {
-    background-color: #e1e1e1;
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-}
-
-div.dia p {
-    font-size: 1em;
-}
-
-    div.dia p.titulo {
-        color: #fe4918;
-        text-transform: uppercase;
-        font-weight: bold;
-    }
-
-    div.dia p i {
-        color: #fe4918;
-        font-size: 1.6em;
-    }
 
 .resumen p {
     font-size: 1.2em;
