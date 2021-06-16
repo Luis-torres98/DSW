@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteDatos\\ComponenteDatos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteDatos\\ComponenteDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteDatos\\ComponenteDatos.csproj",
+        "projectName": "ComponenteDatos",
+        "projectPath": "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteDatos\\ComponenteDatos.csproj",
+        "packagesPath": "C:\\Users\\formu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\formu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteEntidad\\ComponenteEntidad.csproj": {
+                "projectPath": "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteEntidad\\ComponenteEntidad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteEntidad\\ComponenteEntidad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteEntidad\\ComponenteEntidad.csproj",
+        "projectName": "ComponenteEntidad",
+        "projectPath": "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteEntidad\\ComponenteEntidad.csproj",
+        "packagesPath": "C:\\Users\\formu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\formu\\OneDrive\\Escritorio\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECT 2.0\\ComponenteEntidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\formu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

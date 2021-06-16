@@ -1,0 +1,29 @@
+﻿@model IEnumerable<WebApplication1.Models.Producto>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+<h2>Lista de Productos</h2>
+<br />
+
+@Html.ActionLink("Agregar Conferencia", "Create_Conference", "Conferencia", new { @class = "btn btn-success" })
+
+<div class="contenedor">
+    @foreach (var item in Model)
+    {
+
+        <div class="orden-producto">
+            <div class="hijo">
+
+                <img src="~/img/html5-css3-js.png" />
+                <p>ID @item.Id</p>
+                <p> @item.Nombre</p>
+                <p>Precio @String.Format("{0:C}", item.Precio)</p>
+                <input type="number" class="form-control numbers" id="num" min="0" value="" placeholder="Cantidad" />
+                <p class="btn btn-success ">
+                    @Html.ActionLink("Agregar", "AgregarCarrito", "Carrito", new { Id = item.Id }, null)
+                </p>
+
+            </div>
+        </div>
+
+    }
+</div>

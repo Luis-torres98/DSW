@@ -434,6 +434,28 @@ nav.redes-sociales a:last-of-type {
 
 
 /** Menu movil  **/
+.orden-producto {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+}
+
+@media (min-width: 768px) {
+    .orden-producto {
+        display: inline-flex;
+        width: 30.3%;
+        text-align: center;
+    }
+}
+.hijo {
+    font-size: 20px;
+}
+
+.hijo img {
+        width: 80%;
+        margin: 20px auto;
+ }
+
 
 .menu-movil {
     width: 70px;
@@ -1091,6 +1113,12 @@ h4 {
     margin: 5px;
 }
 
+table {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+}
 #calcular,
 #btnRegistro {
     display: block;

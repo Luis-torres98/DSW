@@ -1,0 +1,9 @@
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteEntidad\bin\Debug\netcoreapp3.1\ComponenteEntidad.deps.json
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteEntidad\bin\Debug\netcoreapp3.1\ComponenteEntidad.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteEntidad\bin\Debug\netcoreapp3.1\ComponenteEntidad.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteEntidad\obj\Debug\netcoreapp3.1\ComponenteEntidad.csprojAssemblyReference.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteEntidad\obj\Debug\netcoreapp3.1\ComponenteEntidad.AssemblyInfoInputs.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteEntidad\obj\Debug\netcoreapp3.1\ComponenteEntidad.AssemblyInfo.cs
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteEntidad\obj\Debug\netcoreapp3.1\ComponenteEntidad.csproj.CoreCompileInputs.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteEntidad\obj\Debug\netcoreapp3.1\ComponenteEntidad.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteEntidad\obj\Debug\netcoreapp3.1\ComponenteEntidad.pdb

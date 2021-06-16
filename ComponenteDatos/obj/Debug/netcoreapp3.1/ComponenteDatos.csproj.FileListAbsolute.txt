@@ -1,0 +1,4 @@
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteDatos\obj\Debug\netcoreapp3.1\ComponenteDatos.csprojAssemblyReference.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteDatos\obj\Debug\netcoreapp3.1\ComponenteDatos.AssemblyInfoInputs.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteDatos\obj\Debug\netcoreapp3.1\ComponenteDatos.AssemblyInfo.cs
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\PROYECT 2.0\ComponenteDatos\obj\Debug\netcoreapp3.1\ComponenteDatos.csproj.CoreCompileInputs.cache
