@@ -3,10 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Helpers;
+using System.Data.Entity;
+using System.IO;
+using System.Drawing;
+using System.Drawing.Imaging;
 using WebApplication1.Models;
 
 namespace WebApplication1.Controllers
 {
+    /*
     public class ConferenciaController : Controller
     {
 
@@ -14,8 +20,8 @@ namespace WebApplication1.Controllers
 
         public ActionResult obtenerImagen(int id)
         {
-            Producto persona = db.Producto.Find(id);
-            byte[] byteImagen = persona.;
+            Producto producto = db.Producto.Find(id);
+            byte[] byteImagen = producto.Foto;
 
             MemoryStream memoria = new MemoryStream(byteImagen);
             Image imagen = Image.FromStream(memoria);
@@ -30,16 +36,16 @@ namespace WebApplication1.Controllers
 
         public ActionResult Index()
         {
-            return View(db.VENDEDOR.ToList());
+            return View(db.Producto.ToList());
         }
 
         public ActionResult Create()
         {
-            return View(new VENDEDOR());
+            return View(new Producto());
         }
 
         [HttpPost]
-        public ActionResult Create(VENDEDOR obj)
+        public ActionResult Create(Producto obj)
         {
             HttpPostedFileBase archivo = Request.Files[0];
 
@@ -53,7 +59,7 @@ namespace WebApplication1.Controllers
                 if (archivo.FileName.EndsWith(".jpg"))
                 {
                     WebImage imagen = new WebImage(archivo.InputStream);
-                    obj.FOTO = imagen.GetBytes();
+                    obj.Foto = imagen.GetBytes();
                 }
                 else
                 {
@@ -64,7 +70,7 @@ namespace WebApplication1.Controllers
 
 
 
-            db.VENDEDOR.Add(obj);
+            db.Producto.Add(obj);
             db.SaveChanges();
             return RedirectToAction("Index");
 
@@ -74,21 +80,21 @@ namespace WebApplication1.Controllers
 
         public ActionResult Edit(int? id)
         {
-            VENDEDOR persona = db.VENDEDOR.Find(id);
+            Producto persona = db.Producto.Find(id);
 
             return View(persona);
         }
 
         [HttpPost]
-        public ActionResult Edit(VENDEDOR obj)
+        public ActionResult Edit(Producto obj)
         {
-            VENDEDOR _persona = new VENDEDOR();
+            Producto _persona = new Producto();
 
             HttpPostedFileBase archivo = Request.Files[0];
             if (archivo.ContentLength == 0)
             {
-                _persona = db.VENDEDOR.Find(obj.IDE_VEN);
-                obj.FOTO = _persona.FOTO;
+                _persona = db.Producto.Find(obj.Id);
+                obj.Foto = _persona.Foto;
             }
             else
             {
@@ -96,12 +102,12 @@ namespace WebApplication1.Controllers
                 {
 
                     WebImage imagen = new WebImage(archivo.InputStream);
-                    obj.FOTO = imagen.GetBytes();
+                    obj.Foto = imagen.GetBytes();
                 }
                 else
                 {
                     ModelState.AddModelError("foto", "¡Solo formato JPG!");
-                    return View(db.VENDEDOR.Find(obj.IDE_VEN));
+                    return View(db.Producto.Find(obj.Id));
                 }
             }
 
@@ -119,18 +125,18 @@ namespace WebApplication1.Controllers
 
         public ActionResult Details(int? id)
         {
-            VENDEDOR persona = db.VENDEDOR.Find(id);
+            Producto persona = db.Producto.Find(id);
             return View(persona);
         }
 
         public ActionResult Delete(int? id)
         {
-            VENDEDOR persona = db.VENDEDOR.Find(id);
+            Producto persona = db.Producto.Find(id);
 
-            db.VENDEDOR.Remove(persona);
+            db.Producto.Remove(persona);
             db.SaveChanges();
             return RedirectToAction("Index");
         }
 
-    }
+    }*/
 }

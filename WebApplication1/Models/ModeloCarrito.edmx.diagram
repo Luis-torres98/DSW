@@ -8,7 +8,7 @@
         <EntityTypeShape EntityType="CarritoBDModel.Categoria" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
         <EntityTypeShape EntityType="CarritoBDModel.ListaVenta" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
         <EntityTypeShape EntityType="CarritoBDModel.Producto" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="CarritoBDModel.Venta" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarritoBDModel.Venta" Width="1.5" PointX="7.75" PointY="1.125" IsExpanded="true" />
         <AssociationConnector Association="CarritoBDModel.FK__Producto__Catego__267ABA7A" ManuallyRouted="false" />
         <AssociationConnector Association="CarritoBDModel.FK__ListaVent__Produ__2C3393D0" ManuallyRouted="false" />
         <AssociationConnector Association="CarritoBDModel.FK__ListaVent__Venta__2B3F6F97" ManuallyRouted="false" />
